@@ -1,0 +1,14 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\CountCode\obj\x86\Debug\CountCode.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\CountCode\obj\x86\Debug\CountCode.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\CountCode\obj\x86\Debug\CountCode.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\CountCode\bin\Debug\CountCode.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\CountCode\bin\Debug\CountCode.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\CountCode\obj\x86\Debug\CountCode.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\CountCode\obj\x86\Debug\CountCode.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\CountCode\CountCode\obj\x86\Debug\CountCode.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\CountCode\CountCode\obj\x86\Debug\CountCode.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\CountCode\CountCode\bin\Debug\CountCode.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\CountCode\CountCode\bin\Debug\CountCode.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\CountCode\CountCode\obj\x86\Debug\CountCode.Form1.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\CountCode\CountCode\obj\x86\Debug\CountCode.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\CountCode\CountCode\obj\x86\Debug\CountCode.csproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCode", "CountCode\CountCode.csproj", "{2B1B07AC-17B7-46F5-8D05-84DFD020CACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B1B07AC-17B7-46F5-8D05-84DFD020CACA}.Debug|x86.ActiveCfg = Debug|x86
+		{2B1B07AC-17B7-46F5-8D05-84DFD020CACA}.Debug|x86.Build.0 = Debug|x86
+		{2B1B07AC-17B7-46F5-8D05-84DFD020CACA}.Release|x86.ActiveCfg = Release|x86
+		{2B1B07AC-17B7-46F5-8D05-84DFD020CACA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
